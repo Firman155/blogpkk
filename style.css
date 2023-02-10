@@ -1,0 +1,43 @@
+@media screen and (min-width: 1280px) {
+    .nav-item:hover {
+      background-color: #000;
+    }
+  }
+body{
+    background-color: #ebf3f5;
+}
+section.blog{
+    background-color: #faf8f7;
+}
+
+.isi{
+    color: #414242;
+}
+
+section.konten{
+    background-color: #edebeb;
+}
+
+section.home{
+    background: #ebf3f5;
+}
+
+.gh:hover{
+    color: #000000;
+}
+
+.ig:hover{
+    color: #ff75e5;
+}
+
+.fb:hover{
+    color: #3658d6;
+}
+
+.twt:hover{
+    color: #1da1f2;
+}
+
+.lin:hover{
+    color: #3367d6;
+}
